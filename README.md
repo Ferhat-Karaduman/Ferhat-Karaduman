@@ -10,7 +10,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
  </p>
 </br>
-| `gruvbox_light` ![gruvbox_light][gruvbox_light] | `tokyonight` ![tokyonight][tokyonight] | `onedark` ![onedark][onedark] |
+![tokyonight][tokyonight](https://github-readme-stats.vercel.app/api?username=Ferhat-Karaduman&count_private=true&show_icons=true&include_all_commits=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ferhat-Karaduman&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-Karaduman&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Ferhat-Karaduman)
