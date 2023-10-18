@@ -11,7 +11,6 @@
  </p>
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) </br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ferhat-Karaduman&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-Karaduman&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Ferhat-Karaduman)
 
