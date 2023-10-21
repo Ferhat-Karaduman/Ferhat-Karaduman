@@ -12,9 +12,8 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
  </p>
 </br>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ferhat-Karaduman&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-Karaduman&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Ferhat-Karaduman)
 
 ## Skills
 
