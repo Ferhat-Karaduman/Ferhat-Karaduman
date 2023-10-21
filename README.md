@@ -1,4 +1,4 @@
-<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
+<img src="[http://url/to/img.png](https://www.canva.com/design/DAFxgf1h5EM/26tGBHQQfxTEJqneI9qBGQ/view?utm_content=DAFxgf1h5EM&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="alt text" width="320" height="180">
 
 ### Hi there, I'm Ferhat Karaduman  :wave: <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   :computer: Frontend Developer :computer:
