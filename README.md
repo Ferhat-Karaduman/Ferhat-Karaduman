@@ -1,6 +1,6 @@
 <img src="White Minimalist Profile LinkedIn Banner.png" width="auto">
 
-### Hi there, I'm Ferhat Karaduman  :wave: <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+### Hi there, I'm Ferhat  :wave: <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   :computer: Frontend Developer :computer:
   </br>
   <div>
