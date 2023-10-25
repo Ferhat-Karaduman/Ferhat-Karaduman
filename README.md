@@ -4,9 +4,7 @@
   I am a Frontend Developer :computer:
   </br>
   <div>
-  <a href="https://" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
-  </a>
+ 
   </div> 
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
