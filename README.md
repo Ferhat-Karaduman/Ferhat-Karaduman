@@ -11,7 +11,7 @@
  </p>
 </br>
   
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ferhat-Karaduman&show_icons=true&theme=radical) </br> </br> </br> </br> </br>
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ferhat-Karaduman&show_icons=true&theme=radical) </hr> </hr> </hr> </hr> </hr>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhat-Karaduman&theme=tokyonight)
 
 
