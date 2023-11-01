@@ -2,7 +2,7 @@
   </br>
   </br>
   </br>
-Hi there, I'm Ferhat  :wave: <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+Hi there, I'm Ferhat <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   I am a Frontend Developer :computer:
   </br>
   <div>
