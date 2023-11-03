@@ -1,7 +1,7 @@
 <img src="White Minimalist Profile LinkedIn Banner (2).png" width="auto">
   
 ***Hi there, I'm Ferhat*** :wave: </br>
-I am a Frontend Developer :computer:
+*I am a Frontend Developer* :computer:
   <div>
  
   </div> 
